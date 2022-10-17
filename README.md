@@ -7,3 +7,6 @@ Já a parte de leitura do xml e comparação com a data de nascimento do usuári
 
 Como mvp 1 a página foi desenvolvida de forma bem simples, mas funcional, ficando para as próximas etapas o desenvolvimento de um front
 mais moderno e acrescimo de informações referentes a cada signo. 
+
+![image](https://user-images.githubusercontent.com/42553377/196081033-41cf2774-41f8-4921-8625-47d2fab8ed2d.png)
+![image](https://user-images.githubusercontent.com/42553377/196081082-777d240f-55d7-4dd4-b9ca-3e5a722e87c0.png)
